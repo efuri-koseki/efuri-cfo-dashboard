@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "EFURI財務状況",
+  title: "財務状況",
   description: "EFURI株式会社のリアルタイム財務管理・AI自動仕訳システム",
 };
 

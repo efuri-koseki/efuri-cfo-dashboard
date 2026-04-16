@@ -40,7 +40,7 @@ export default async function Home() {
       <div className="mx-auto max-w-7xl">
         <header className="mb-8 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
           <div>
-            <h1 className="text-3xl font-bold tracking-tight text-foreground">EFURI Financial Dashboard - {clientData.name}</h1>
+            <h1 className="text-3xl font-bold tracking-tight text-foreground">Financial Dashboard - {clientData.name}</h1>
             <p className="text-muted-foreground mt-1">SaaS Dashboards for real-time tracking.</p>
           </div>
           <div className="flex items-center gap-4 hidden sm:flex">
