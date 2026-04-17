@@ -22,7 +22,7 @@ export async function login(prevState: any, formData: FormData) {
         path: "/"
     });
 
-    redirect("/");
+    redirect("/" + id);
 }
 
 export async function logout() {
